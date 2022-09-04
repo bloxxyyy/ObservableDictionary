@@ -12,10 +12,10 @@
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "1.3.0",
     "restore": {
       "projectUniqueName": "C:\\Users\\mnnop\\source\\repos\\ObservableDictionary\\ObservableDictionary\\ObservableDictionary.csproj",
-      "projectName": "ObservableDictionary",
+      "projectName": "ObservableDictionary_By_Koko",
       "projectPath": "C:\\Users\\mnnop\\source\\repos\\ObservableDictionary\\ObservableDictionary\\ObservableDictionary.csproj",
       "packagesPath": "C:\\Users\\mnnop\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mnnop\\source\\repos\\ObservableDictionary\\ObservableDictionary\\obj\\",
